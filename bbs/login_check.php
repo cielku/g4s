@@ -89,3 +89,4 @@ else
 
 goto_url($link);
 ?>
+repair table g4_member ;
